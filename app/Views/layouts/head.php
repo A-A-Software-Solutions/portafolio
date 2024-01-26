@@ -25,7 +25,6 @@
     <link href="<?php base_url() ?>assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="<?php base_url() ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="<?php base_url() ?>assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
     <!-- Template Main CSS File -->
     <link href="<?php base_url() ?>assets/css/style.css" rel="stylesheet">
 
