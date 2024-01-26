@@ -105,7 +105,7 @@
       <!-- ======= About Me - Columna Alan ======= -->
       <div class="about-me container col-md-6">
         <div class="section-title">
-          <h2>Acerca de Alan</h2>
+          <h2>Acerca de Alan Rodríguez</h2>
           <p>Lee mas acerca de mi</p>
         </div>
         <div class="row">
@@ -115,30 +115,30 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX &amp; Desarrollador de Software</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore
-              magna aliqua.
+              Soy desarrollador web apasionado por crear experiencias digitales atractivas e intuitivas. Utilizo
+              tecnologías como HTML, CSS, JavaScript y framework de desarrollo web modernos para construir sitios web y
+              aplicaciones optimizadas
             </p>
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/06/2002</span></li>
-                <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
-                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0961535247</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibarra, Ecuador</span></li>
-              </ul>
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniero</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>alan.rodriguezp06@gmail.com</span>
-                </li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
-              </ul>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/06/2002</span></li>
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
+              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0961535247</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibarra, Ecuador</span></li>
+            </ul>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniero</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>alan.rodriguezp06@gmail.com</span>
+              </li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
+            </ul>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
-              ut.
-              Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
-              Aliquid
-              amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              Disfruto analizar requerimientos de negocio, diseñar software escalables y trabajar de
+              manera colaborativa con equipos. Mi objetivo es utilizar mi pasión y conocimiento por la
+              programación además del aprendizaje continuo de nuevas tecnologías para crear productos digitales que
+              marquen la
+              diferencia. Me mantengo siempre aprendiendo y experimentando con las últimas tendencias en desarrollo
+              frontend y backend para ofrecer las soluciones más innovadoras.
             </p>
           </div>
         </div>
@@ -147,21 +147,21 @@
           <div class="col-lg-12">
             <div class="skills">
               <div class="section-title">
-                <h2>Skills</h2>
+                <h2>Habilidades</h2>
               </div>
               <div class="skills-content">
                 <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
+                  <span class="skill">HTML <i class="val">70%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0"
                       aria-valuemax="100">
                     </div>
                   </div>
                 </div>
                 <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
+                  <span class="skill">CSS <i class="val">60%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0"
                       aria-valuemax="100">
                     </div>
                   </div>
@@ -175,15 +175,7 @@
                   </div>
                 </div>
                 <div class="progress">
-                  <span class="skill">PHP <i class="val">80%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+                  <span class="skill">PHP <i class="val">90%</i></span>
                   <div class="progress-bar-wrap">
                     <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
                       aria-valuemax="100">
@@ -191,9 +183,17 @@
                   </div>
                 </div>
                 <div class="progress">
-                  <span class="skill">Photoshop <i class="val">55%</i></span>
+                  <span class="skill">MySQL <i class="val">100%</i></span>
                   <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
+                      aria-valuemax="100">
+                    </div>
+                  </div>
+                </div>
+                <div class="progress">
+                  <span class="skill">PL/SQL Developer <i class="val">80%</i></span>
+                  <div class="progress-bar-wrap">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
                       aria-valuemax="100">
                     </div>
                   </div>
