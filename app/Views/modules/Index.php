@@ -19,23 +19,18 @@
               dolore
               magna aliqua.
             </p>
-            <div class="col-lg-6">
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/05/2001</span></li>
-                <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
-                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0980270157</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibarra, Ecuador</span></li>
-              </ul>
-            </div>
-            <div class="col-lg-6">
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniera</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>abisanchez143@gmail.com</span>
-                </li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
-              </ul>
-            </div>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/05/2001</span></li>
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
+              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0980270157</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Lago Agrio, Ecuador</span></li>
+            </ul>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniera</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>abisanchez143@gmail.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
+            </ul>
             <p>
               Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
               ut.
@@ -124,15 +119,12 @@
               dolore
               magna aliqua.
             </p>
-            <div class="col-lg-6">
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/06/2002</span></li>
                 <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
                 <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0961535247</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibarra, Ecuador</span></li>
               </ul>
-            </div>
-            <div class="col-lg-6">
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniero</span></li>
@@ -140,7 +132,6 @@
                 </li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
               </ul>
-            </div>
             <p>
               Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
               ut.
