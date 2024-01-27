@@ -177,7 +177,7 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
         <div class="icon-box">
           <div class="icon"><i class='bx bx-webcam'></i></div>
-          <h4><a href="">Desarrollo de aplicaciones web responsive</a></h4>
+          <h4>Desarrollo de aplicaciones web responsive</h4>
           <p>Tecnologías: HTML, CSS, JavaScript, React, Angular.</p>
         </div>
       </div>
@@ -185,7 +185,7 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
           <div class="icon"><i class='bx bxl-flutter'></i></div>
-          <h4><a href="">Desarrollo de aplicaciones híbridas</a></h4>
+          <h4>Desarrollo de aplicaciones híbridas</h4>
           <p>Framework: Flutter</p>
         </div>
       </div>
@@ -193,7 +193,7 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
         <div class="icon-box">
           <div class="icon"><i class='bx bxs-data'></i></div>
-          <h4><a href="">Diseño de bases de datos y administración de información.</a></h4>
+          <h4>Diseño de bases de datos y administración de información.</h4>
           <p>Tecnologías: MySQL, MongoDB, Firebase, Oracle.</p>
         </div>
       </div>
@@ -201,7 +201,7 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
           <div class="icon"><i class='bx bx-user-check'></i></div>
-          <h4><a href="">Experiencia de usuario (UX) y diseño visual atractivo (UI).</a></h4>
+          <h4>Experiencia de usuario (UX) y diseño visual atractivo (UI).</h4>
           <p>Tecnologías: Figma.</p>
         </div>
       </div>
@@ -209,7 +209,7 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
           <div class="icon"><i class='bx bx-refresh'></i></div>
-          <h4><a href="">Mantenimiento y actualizaciones.</a></h4>
+          <h4>Mantenimiento y actualizaciones.</h4>
           <p></p>
         </div>
       </div>
@@ -217,7 +217,7 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
           <div class="icon"><i class='bx bxl-nodejs'></i></div>
-          <h4><a href="">Implementación de funciones de backend. </a></h4>
+          <h4>Implementación de funciones de backend.</h4>
           <p>Tecnologías: Node.js, PHP, Python, Java.</p>
         </div>
       </div>
@@ -257,8 +257,8 @@
               <a href="assets/img/portfolio/proyecto_agilmarket.png" data-gallery="portfolioGallery"
                 class="portfolio-lightbox" title="Aplicación móvil para la gestión de ventas"><i
                   class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
@@ -274,8 +274,8 @@
               <a href="assets/img/portfolio/proyecto_sccad.jpg" data-gallery="portfolioGallery"
                 class="portfolio-lightbox" title="Aplicación web para la compañía SC-CAD, topografía"><i
                   class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
@@ -291,8 +291,8 @@
               <a href="assets/img/portfolio/proyecto_midfitdoc.png" data-gallery="portfolioGallery"
                 class="portfolio-lightbox" title="Aplicación desarrollada para el área de salud mental"><i
                   class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
@@ -307,8 +307,8 @@
             <div class="portfolio-links">
               <a href="assets/img/portfolio/proyecto_sae_asar.jpg" data-gallery="portfolioGallery"
                 class="portfolio-lightbox" title="Sistema de Acumulación de Egresos"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
@@ -338,10 +338,10 @@
             <p>App Web</p>
             <div class="portfolio-links">
               <a href="assets/img/portfolio/proyecto_bai.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Colaboradores para el Sistema de Gestión para el Banco de Alimentos"><i
+                title="Colaboradores para el Sistema de Gestión para el Banco de Alimentos de Imbabura"><i
                   class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
