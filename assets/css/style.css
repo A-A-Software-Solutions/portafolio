@@ -1180,3 +1180,12 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+/*--------------------------------------------------------------
+#Estilo personal para imagen de proyectos
+--------------------------------------------------------------*/
+
+.small-image {
+  max-width: 10px;
+  max-height: 15px;
+}

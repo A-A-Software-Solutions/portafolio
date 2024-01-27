@@ -249,13 +249,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_agilmarket.png" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>TIENDA "Víveres Angelica"</h4>
+            <h4>AgilMarket"</h4>
             <p>App móvil</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/proyecto_agilmarket.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                title="Aplicación móvil para la gestión de ventas"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
             </div>
@@ -265,12 +265,12 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_sccad.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>SC-CAD</h4>
             <p>App web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
+              <a href="assets/img/portfolio/proyecto_sccad.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
                 title="Aplicación web para la compañía SC-CAD, topografía"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
@@ -281,12 +281,12 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_midfitdoc.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>MindFitDoc</h4>
             <p>App móvil</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-3.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
+              <a href="assets/img/portfolio/proyecto_midfitdoc.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
                 title="Aplicación desarrollada para el área de salud mental"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
@@ -294,8 +294,6 @@
           </div>
         </div>
       </div>
-
-
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
@@ -313,7 +311,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -327,17 +325,17 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_bai.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Web 3</h4>
-            <p>Web</p>
+            <h4>Banco de Alimentos de Imbabura</h4>
+            <p>App Web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/proyecto_bai.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                title="Colaboradores para el Sistema de Gestión para el Banco de Alimentos"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
             </div>
