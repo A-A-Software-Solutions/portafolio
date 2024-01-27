@@ -177,15 +177,15 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
         <div class="icon-box">
           <div class="icon"><i class='bx bx-webcam'></i></div>
-          <h4><a href="">Desarrollo de aplicaciones web responsive</a></h4>
+          <h4>Desarrollo de aplicaciones web responsive</h4>
           <p>Tecnologías: HTML, CSS, JavaScript, React, Angular.</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
-          <div class="icon"><i class='bx bxl-flutter' ></i></div>
-          <h4><a href="">Desarrollo de aplicaciones híbridas</a></h4>
+          <div class="icon"><i class='bx bxl-flutter'></i></div>
+          <h4>Desarrollo de aplicaciones híbridas</h4>
           <p>Framework: Flutter</p>
         </div>
       </div>
@@ -193,31 +193,31 @@
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
         <div class="icon-box">
           <div class="icon"><i class='bx bxs-data'></i></div>
-          <h4><a href="">Diseño de bases de datos y administración de información.</a></h4>
+          <h4>Diseño de bases de datos y administración de información.</h4>
           <p>Tecnologías: MySQL, MongoDB, Firebase, Oracle.</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class='bx bx-user-check' ></i></div>
-          <h4><a href="">Experiencia de usuario (UX) y diseño visual atractivo (UI).</a></h4>
+          <div class="icon"><i class='bx bx-user-check'></i></div>
+          <h4>Experiencia de usuario (UX) y diseño visual atractivo (UI).</h4>
           <p>Tecnologías: Figma.</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class='bx bx-refresh' ></i></div>
-          <h4><a href="">Mantenimiento y actualizaciones.</a></h4>
+          <div class="icon"><i class='bx bx-refresh'></i></div>
+          <h4>Mantenimiento y actualizaciones.</h4>
           <p></p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class='bx bxl-nodejs' ></i></div>
-          <h4><a href="">Implementación de funciones de backend. </a></h4>
+          <div class="icon"><i class='bx bxl-nodejs'></i></div>
+          <h4>Implementación de funciones de backend.</h4>
           <p>Tecnologías: Node.js, PHP, Python, Java.</p>
         </div>
       </div>
@@ -249,15 +249,16 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_agilmarket.png" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>TIENDA "Víveres Angelica"</h4>
+            <h4>AgilMarket"</h4>
             <p>App móvil</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <a href="assets/img/portfolio/proyecto_agilmarket.png" data-gallery="portfolioGallery"
+                class="portfolio-lightbox" title="Aplicación móvil para la gestión de ventas"><i
+                  class="bx bx-plus"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
@@ -265,15 +266,16 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_sccad.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>SC-CAD</h4>
             <p>App web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Aplicación web para la compañía SC-CAD, topografía"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <a href="assets/img/portfolio/proyecto_sccad.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox" title="Aplicación web para la compañía SC-CAD, topografía"><i
+                  class="bx bx-plus"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
@@ -281,39 +283,38 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_midfitdoc.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>MindFitDoc</h4>
             <p>App móvil</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-3.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Aplicación desarrollada para el área de salud mental"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <a href="assets/img/portfolio/proyecto_midfitdoc.png" data-gallery="portfolioGallery"
+                class="portfolio-lightbox" title="Aplicación desarrollada para el área de salud mental"><i
+                  class="bx bx-plus"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
       </div>
 
-
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-5.jpeg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_sae_asar.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>SAE</h4>
             <p>App web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-5.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Sistema de Acumulación de Egresos"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <a href="assets/img/portfolio/proyecto_sae_asar.jpg" data-gallery="portfolioGallery"
+                class="portfolio-lightbox" title="Sistema de Acumulación de Egresos"><i class="bx bx-plus"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -327,40 +328,35 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/proyecto_bai.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Web 3</h4>
-            <p>Web</p>
+            <h4>Banco de Alimentos de Imbabura</h4>
+            <p>App Web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              <a href="assets/img/portfolio/proyecto_bai.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                title="Colaboradores para el Sistema de Gestión para el Banco de Alimentos de Imbabura"><i
+                  class="bx bx-plus"></i></a>
+              <!-- <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
+                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
             </div>
           </div>
         </div>
       </div>
-
     </div>
-
   </div>
 </section><!-- End Portfolio Section -->
-
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
   <div class="container">
-
     <div class="section-title">
       <h2>Contacto</h2>
       <p>Contáctanos</p>
     </div>
-
     <div class="row mt-2">
-
       <div class="col-md-6 d-flex align-items-stretch">
         <div class="info-box">
           <i class="bx bx-envelope"></i>
@@ -368,40 +364,20 @@
           <a href="mailto: aasoftwaresolutions00@gmail.com" class="email">aasoftwaresolutions00@gmail.com</a>
         </div>
       </div>
-
       <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
         <div class="info-box">
           <i class="bx bx-phone-call"></i>
           <h3>Teléfonos:</h3>
-          <p>+593 961 535 247</p>
-          <p>+593 980 270 157</p>
+          <div>
+              <p><i class="bi bi-chevron-right"></i> <span><a href="https://api.whatsapp.com/send?phone=593961535247"
+                    target="_blank">+593 961 535 247</a></span>
+              </p>
+              <p><i class="bi bi-chevron-right"></i> <span><a href="https://api.whatsapp.com/send?phone=593980270157"
+                    target="_blank">+593 980 270 157</a></span>
+              </p> 
+          </div>
         </div>
       </div>
-      
     </div>
-
-    <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
-      <div class="row">
-        <div class="col-md-6 form-group">
-          <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" required>
-        </div>
-        <div class="col-md-6 form-group mt-3 mt-md-0">
-          <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
-        </div>
-      </div>
-      <div class="form-group mt-3">
-        <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required>
-      </div>
-      <div class="form-group mt-3">
-        <textarea class="form-control" name="message" rows="5" placeholder="Mensaje" required></textarea>
-      </div>
-      <div class="my-3">
-        <div class="loading">Loading</div>
-        <div class="error-message"></div>
-        <div class="sent-message">Your message has been sent. Thank you!</div>
-      </div>
-      <div class="text-center"><button type="submit">Enviar mensaje</button></div>
-    </form>
-
   </div>
 </section><!-- End Contact Section -->
