@@ -5,8 +5,8 @@
       <!-- ======= About Me - Columna Abi ======= -->
       <div class="about-me container col-md-6">
         <div class="section-title">
-          <h2>Acerca de Abigail</h2>
-          <p>Lee mas acerca de mi</p>
+          <h2>Acerca de Abigail Sánchez</h2>
+          <p>Lee más acerca de mi</p>
         </div>
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
@@ -15,34 +15,35 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX &amp; Desarrollador de Software</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore
-              magna aliqua.
+              ¡Hola! Soy Abigail, desarrolladora de software.
             </p>
-            <div class="col-lg-6">
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/05/2001</span></li>
-                <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
-                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0980270157</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibarra, Ecuador</span></li>
-              </ul>
-            </div>
-            <div class="col-lg-6">
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniera</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>abisanchez143@gmail.com</span>
-                </li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
-              </ul>
-            </div>
+            <ul>
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
+              <li><i class="bi bi-chevron-right"></i> <strong>Curriculum:</strong> <span><a
+                    href="https://drive.google.com/drive/folders/1NZKG9O4q0wngQlsYmgvdAjVpJZM7NqmD?usp=sharing"
+                    target="_blank">Hoja de Vida</a></span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Teléfono:</strong> <a
+                  href="https://api.whatsapp.com/send?phone=593980270157"><span>+593 980270157</span></a></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Ciudad:</strong> <span>Lago Agrio, Ecuador</span></li>
+            </ul>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Edad:</strong> <span>20</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Estudios:</strong> <span>Ingeniera en TI</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a
+                    href="mailto: abigail.sanchezv2@gmail.com" target="_blank"
+                    style="text-decoration: none; color: inherit;">abigail.sanchezv2@gmail.com</a></span>
+              </li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
+            </ul>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
-              ut.
-              Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
-              Aliquid
-              amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              Poseo sólidos conocimientos en lenguajes de programación y he participado en todas las etapas del ciclo de
+              desarrollo
+              de software, desde el análisis de requerimientos hasta las pruebas
+              y el deployment. Me destaco por mi capacidad para resolver problemas complejos, trabajar en equipo y
+              aprender
+              rápidamente nuevas tecnologías. Busco aplicar mis habilidades en desarrollo de software con proyectos
+              innovadores
+              para poder seguir creciendo profesionalmente.
             </p>
           </div>
         </div>
@@ -54,52 +55,27 @@
                 <h2>Skills</h2>
               </div>
               <div class="skills-content">
-                <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
+
+
+                <div class="row">
+                  <div class="col-md-6">
+                    <ul>
+                      <li><span class="skill">JAVA </span></li>
+                      <li><span class="skill">C# </span></li>
+                      <li><span class="skill">PYTHON </span></li>
+                      <li><span class="skill">JAVASCRIPT </span></li>
+                      <li><span class="skill">PHP </span></li>
+                      <li><span class="skill">MYSQL </span></li>
+                    </ul>
                   </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">JavaScript <i class="val">75%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">PHP <i class="val">80%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">Photoshop <i class="val">55%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
+                  <div class="col-md-6">
+                    <ul>
+                      <li><span class="skill">HTML </span></li>
+                      <li><span class="skill">CSS </span></li>
+                      <li><span class="skill">TYPESCRIPT </span></li>
+                      <li><span class="skill">DOCKER </span></li>
+                      <li><span class="skill">AUDITOR INTERNO: ISO 27001 </span></li>
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -110,8 +86,8 @@
       <!-- ======= About Me - Columna Alan ======= -->
       <div class="about-me container col-md-6">
         <div class="section-title">
-          <h2>Acerca de Alan</h2>
-          <p>Lee mas acerca de mi</p>
+          <h2>Acerca de Alan Rodríguez</h2>
+          <p>Lee más acerca de mi</p>
         </div>
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
@@ -120,34 +96,33 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX &amp; Desarrollador de Software</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore
-              magna aliqua.
+              Soy desarrollador web apasionado por crear experiencias digitales atractivas e intuitivas. Utilizo
+              tecnologías como HTML, CSS, JavaScript y framework de desarrollo web modernos para construir sitios web y
+              aplicaciones optimizadas
             </p>
-            <div class="col-lg-6">
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17/06/2002</span></li>
-                <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>-->
-                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0961535247</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibarra, Ecuador</span></li>
-              </ul>
-            </div>
-            <div class="col-lg-6">
-              <ul>
-                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Ingeniero</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>alan.rodriguezp06@gmail.com</span>
-                </li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
-              </ul>
-            </div>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Curriculum:</strong> <span><a
+                    href="https://drive.google.com/drive/folders/1Dy-bBmarhlgWZPDndqlcCXAbZ1ZTxBcv?usp=drive_link"
+                    target="_blank">Hoja de Vida</a></span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Teléfono:</strong> <span><a
+                    href="https://api.whatsapp.com/send?phone=593961535247" target="_blank">+593 961 535 247</a></span>
+              </li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Ciudad:</strong><span>Ibarra, Ecuador</span></li>
+            </ul>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <strong>Edad:</strong> <span>21</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Estudios:</strong> <span>Ingeniero</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a
+                    href="mailto: alan.rodriguezp06@gmail.com" target="_blank"
+                    style="text-decoration: none; color: inherit;">alan.rodriguezp06@gmail.com</a></span>
+              </li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
+            </ul>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
-              ut.
-              Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
-              Aliquid
-              amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              Mi objetivo es utilizar mi pasión por la programación y los conocimientos que he adquirido,
+              además del aprendizaje continuo de nuevas tecnologías para crear productos digitales que
+              marquen la diferencia. Me mantengo siempre aprendiendo y experimentando con las últimas
+              tendencias en desarrollo para ofrecer las soluciones más innovadoras.
             </p>
           </div>
         </div>
@@ -156,55 +131,29 @@
           <div class="col-lg-12">
             <div class="skills">
               <div class="section-title">
-                <h2>Skills</h2>
+                <h2>Habilidades</h2>
               </div>
               <div class="skills-content">
-                <div class="progress">
-                  <span class="skill">HTML <i class="val">100%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <ul>
+                      <li>PHP</li>
+                      <li>C#</li>
+                      <li>JavaScript</li>
+                      <li>Java</li>
+                      <li>ASP.NET</li>
+                      <li>IoT</li>
+                    </ul>
                   </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">CSS <i class="val">90%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">JavaScript <i class="val">75%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">PHP <i class="val">80%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">WordPress/CMS <i class="val">90%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
-                  </div>
-                </div>
-                <div class="progress">
-                  <span class="skill">Photoshop <i class="val">55%</i></span>
-                  <div class="progress-bar-wrap">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
-                      aria-valuemax="100">
-                    </div>
+                  <div class="col-md-6">
+                    <ul>
+                      <li>HTML5</li>
+                      <li>MySQL</li>
+                      <li>PostgreSQL</li>
+                      <li>PL/SQL Developer</li>
+                      <li>MongoDb</li>
+                      <li>Abobe Premiere Pro</li>
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -214,317 +163,62 @@
       </div><!-- End About Me - Alan -->
     </div>
   </div>
-  <!-- ======= Interests ======= -->
-  <div class="interests container">
-
-    <div class="section-title">
-      <h2>Interests</h2>
-    </div>
-
-    <div class="row">
-      <div class="col-lg-3 col-md-4">
-        <div class="icon-box">
-          <i class="ri-store-line" style="color: #ffbb2c;"></i>
-          <h3>Lorem Ipsum</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-        <div class="icon-box">
-          <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-          <h3>Dolor Sitema</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-        <div class="icon-box">
-          <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-          <h3>Sed perspiciatis</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-        <div class="icon-box">
-          <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-          <h3>Magni Dolores</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-database-2-line" style="color: #47aeff;"></i>
-          <h3>Nemo Enim</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
-          <h3>Eiusmod Tempor</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-          <h3>Midela Teren</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
-          <h3>Pira Neve</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-anchor-line" style="color: #b2904f;"></i>
-          <h3>Dirada Pack</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-disc-line" style="color: #b20969;"></i>
-          <h3>Moton Ideal</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-base-station-line" style="color: #ff5828;"></i>
-          <h3>Verdo Park</h3>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 mt-4">
-        <div class="icon-box">
-          <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-          <h3>Flavor Nivelanda</h3>
-        </div>
-      </div>
-    </div>
-
-  </div><!-- End Interests -->
-
-  <!-- ======= Testimonials ======= -->
-  <div class="testimonials container">
-
-    <div class="section-title">
-      <h2>Testimonials</h2>
-    </div>
-
-    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-      <div class="swiper-wrapper">
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium
-              quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-              quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor
-              labore quem eram duis noster aute amet eram fore quis sint minim.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim
-              dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa
-              labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-          </div>
-        </div><!-- End testimonial item -->
-
-      </div>
-      <div class="swiper-pagination"></div>
-    </div>
-
-    <div class="owl-carousel testimonials-carousel">
-
-    </div>
-
-  </div><!-- End Testimonials  -->
-
 </section><!-- End About Section -->
-
-<!-- ======= Resume Section ======= -->
-<section id="resume" class="resume">
-  <div class="container">
-
-    <div class="section-title">
-      <h2>Resume</h2>
-      <p>Check My Resume</p>
-    </div>
-
-    <div class="row">
-      <div class="col-lg-6">
-        <h3 class="resume-title">Sumary</h3>
-        <div class="resume-item pb-0">
-          <h4>Alice Barkley</h4>
-          <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing
-              user-centered digital/print marketing material from initial concept to final, polished deliverable.</em>
-          </p>
-          <p>
-          <ul>
-            <li>Portland par 127,Orlando, FL</li>
-            <li>(123) 456-7891</li>
-            <li>alice.barkley@example.com</li>
-          </ul>
-          </p>
-        </div>
-
-        <h3 class="resume-title">Education</h3>
-        <div class="resume-item">
-          <h4>Master of Fine Arts &amp; Graphic Design</h4>
-          <h5>2015 - 2016</h5>
-          <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-          <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut
-            dignissimos deleniti nerada porti sand markend</p>
-        </div>
-        <div class="resume-item">
-          <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-          <h5>2010 - 2014</h5>
-          <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-          <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde
-            vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <h3 class="resume-title">Professional Experience</h3>
-        <div class="resume-item">
-          <h4>Senior graphic design specialist</h4>
-          <h5>2019 - Present</h5>
-          <p><em>Experion, New York, NY </em></p>
-          <p>
-          <ul>
-            <li>Lead in the design, development, and implementation of the graphic, layout, and production communication
-              materials</li>
-            <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project.
-            </li>
-            <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design
-            </li>
-            <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-          </ul>
-          </p>
-        </div>
-        <div class="resume-item">
-          <h4>Graphic design specialist</h4>
-          <h5>2017 - 2018</h5>
-          <p><em>Stepping Stone Advertising, New York, NY</em></p>
-          <p>
-          <ul>
-            <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and
-              advertisements).</li>
-            <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-            <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-            <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-          </ul>
-          </p>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section><!-- End Resume Section -->
-
 <!-- ======= Services Section ======= -->
 <section id="services" class="services">
   <div class="container">
 
     <div class="section-title">
-      <h2>Services</h2>
-      <p>My Services</p>
+      <h2>Servicios</h2>
+      <p>Nuestros Servicios</p>
     </div>
 
     <div class="row">
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
         <div class="icon-box">
-          <div class="icon"><i class="bx bxl-dribbble"></i></div>
-          <h4><a href="">Lorem Ipsum</a></h4>
-          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+          <div class="icon"><i class='bx bx-webcam'></i></div>
+          <h4><a href="">Desarrollo de aplicaciones web responsive</a></h4>
+          <p>Tecnologías: HTML, CSS, JavaScript, React, Angular.</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-file"></i></div>
-          <h4><a href="">Sed ut perspiciatis</a></h4>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+          <div class="icon"><i class='bx bxl-flutter' ></i></div>
+          <h4><a href="">Desarrollo de aplicaciones híbridas</a></h4>
+          <p>Framework: Flutter</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-tachometer"></i></div>
-          <h4><a href="">Magni Dolores</a></h4>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+          <div class="icon"><i class='bx bxs-data'></i></div>
+          <h4><a href="">Diseño de bases de datos y administración de información.</a></h4>
+          <p>Tecnologías: MySQL, MongoDB, Firebase, Oracle.</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-world"></i></div>
-          <h4><a href="">Nemo Enim</a></h4>
-          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+          <div class="icon"><i class='bx bx-user-check' ></i></div>
+          <h4><a href="">Experiencia de usuario (UX) y diseño visual atractivo (UI).</a></h4>
+          <p>Tecnologías: Figma.</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-slideshow"></i></div>
-          <h4><a href="">Dele cardo</a></h4>
-          <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+          <div class="icon"><i class='bx bx-refresh' ></i></div>
+          <h4><a href="">Mantenimiento y actualizaciones.</a></h4>
+          <p></p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
         <div class="icon-box">
-          <div class="icon"><i class="bx bx-arch"></i></div>
-          <h4><a href="">Divera don</a></h4>
-          <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+          <div class="icon"><i class='bx bxl-nodejs' ></i></div>
+          <h4><a href="">Implementación de funciones de backend. </a></h4>
+          <p>Tecnologías: Node.js, PHP, Python, Java.</p>
         </div>
       </div>
 
@@ -532,22 +226,20 @@
 
   </div>
 </section><!-- End Services Section -->
-
 <!-- ======= Portfolio Section ======= -->
 <section id="portfolio" class="portfolio">
   <div class="container">
 
     <div class="section-title">
-      <h2>Portfolio</h2>
-      <p>My Works</p>
+      <h2>Portafolio</h2>
+      <p>Nuestros trabajos recientes</p>
     </div>
 
     <div class="row">
       <div class="col-lg-12 d-flex justify-content-center">
         <ul id="portfolio-flters">
-          <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
+          <li data-filter="*" class="filter-active">Todos</li>
+          <li data-filter=".filter-app">App móvil</li>
           <li data-filter=".filter-web">Web</li>
         </ul>
       </div>
@@ -559,8 +251,8 @@
         <div class="portfolio-wrap">
           <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>App 1</h4>
-            <p>App</p>
+            <h4>TIENDA "Víveres Angelica"</h4>
+            <p>App móvil</p>
             <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
                 title="App 1"><i class="bx bx-plus"></i></a>
@@ -573,13 +265,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Web 3</h4>
-            <p>Web</p>
+            <h4>SC-CAD</h4>
+            <p>App web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-2.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                title="Aplicación web para la compañía SC-CAD, topografía"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
             </div>
@@ -589,13 +281,13 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>App 2</h4>
-            <p>App</p>
+            <h4>MindFitDoc</h4>
+            <p>App móvil</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-3.png" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                title="Aplicación desarrollada para el área de salud mental"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
             </div>
@@ -603,31 +295,17 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <h4>Card 2</h4>
-            <p>Card</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
+
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+          <img src="assets/img/portfolio/portfolio-5.jpeg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Web 2</h4>
-            <p>Web</p>
+            <h4>SAE</h4>
+            <p>App web</p>
             <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Web 2"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-5.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox"
+                title="Sistema de Acumulación de Egresos"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
             </div>
@@ -639,43 +317,11 @@
         <div class="portfolio-wrap">
           <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>App 3</h4>
+            <h4>App móvil 3</h4>
             <p>App</p>
             <div class="portfolio-links">
               <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
                 title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <h4>Card 1</h4>
-            <p>Card</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
-                class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <h4>Card 3</h4>
-            <p>Card</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"
-                title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external"
                 class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
             </div>
@@ -709,71 +355,52 @@
   <div class="container">
 
     <div class="section-title">
-      <h2>Contact</h2>
-      <p>Contact Me</p>
+      <h2>Contacto</h2>
+      <p>Contáctanos</p>
     </div>
 
     <div class="row mt-2">
 
       <div class="col-md-6 d-flex align-items-stretch">
         <div class="info-box">
-          <i class="bx bx-map"></i>
-          <h3>My Address</h3>
-          <p>A108 Adam Street, New York, NY 535022</p>
+          <i class="bx bx-envelope"></i>
+          <h3>Email</h3>
+          <a href="mailto: aasoftwaresolutions00@gmail.com" class="email">aasoftwaresolutions00@gmail.com</a>
         </div>
       </div>
 
       <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
         <div class="info-box">
-          <i class="bx bx-share-alt"></i>
-          <h3>Social Profiles</h3>
-          <div class="social-links">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-6 mt-4 d-flex align-items-stretch">
-        <div class="info-box">
-          <i class="bx bx-envelope"></i>
-          <h3>Email Me</h3>
-          <p>contact@example.com</p>
-        </div>
-      </div>
-      <div class="col-md-6 mt-4 d-flex align-items-stretch">
-        <div class="info-box">
           <i class="bx bx-phone-call"></i>
-          <h3>Call Me</h3>
-          <p>+1 5589 55488 55</p>
+          <h3>Teléfonos:</h3>
+          <p>+593 961 535 247</p>
+          <p>+593 980 270 157</p>
         </div>
       </div>
+      
     </div>
 
     <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
       <div class="row">
         <div class="col-md-6 form-group">
-          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+          <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" required>
         </div>
         <div class="col-md-6 form-group mt-3 mt-md-0">
-          <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+          <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
         </div>
       </div>
       <div class="form-group mt-3">
-        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+        <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required>
       </div>
       <div class="form-group mt-3">
-        <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+        <textarea class="form-control" name="message" rows="5" placeholder="Mensaje" required></textarea>
       </div>
       <div class="my-3">
         <div class="loading">Loading</div>
         <div class="error-message"></div>
         <div class="sent-message">Your message has been sent. Thank you!</div>
       </div>
-      <div class="text-center"><button type="submit">Send Message</button></div>
+      <div class="text-center"><button type="submit">Enviar mensaje</button></div>
     </form>
 
   </div>
